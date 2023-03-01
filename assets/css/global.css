@@ -8,10 +8,10 @@ body {
 }
 
 .content {
-    padding: 1rem;
-    background-color: white;
-    height: 100vh;
     width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+    background-color: #fff;
 }
 
 @media screen and (min-width: 992px) {
@@ -22,4 +22,3 @@ body {
         border-radius: 1rem;
     }
 }
-
